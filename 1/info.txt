@@ -1,0 +1,11 @@
+MOther of Languages
+
+Nearly every language uses or is influenced by C
+Used in OS, databases, cars(tesla), embedded systems, etc.
+
+C is not Object Oriented
+C++ is an extension of C
+C is difficult!
+
+Need IDE(Text Editor)
+GCC Compiler, XCode/Clang
